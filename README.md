@@ -1,14 +1,13 @@
 <h1 data-importer="text" align="left">Hey 👋 What's up?</h1>
 
-###
+
 
 <p data-importer="text" align="left">My name is Nehaal 🧣<br>I Crave for CyberSec 🔗<br>from Andaman & Nicobar Islands 🏝️</p>
 
-###
 
 <h2 data-importer="text" align="left">Arsenal ✨</h2>
 
-###
+
 
 <br clear="both">
 
