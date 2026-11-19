@@ -2,7 +2,7 @@
 
 
 
-<p data-importer="text" align="left">My name is Nehaal 🧣<br>I Crave for CyberSec 🔗<br>from Andaman & Nicobar Islands 🏝️</p>
+<p data-importer="text" align="left">Call me Nehaal 🧣<br>I Crave for CyberSec 🔗<br>Lv'n Andaman & Nicobar Islands 🏝️</p>
 
 
 <h2 data-importer="text" align="left">Arsenal ✨</h2>
